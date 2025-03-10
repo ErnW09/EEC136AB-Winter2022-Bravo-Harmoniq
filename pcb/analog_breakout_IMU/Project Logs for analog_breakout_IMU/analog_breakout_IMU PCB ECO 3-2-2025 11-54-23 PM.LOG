@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=gnd Pin=SW1-2
+Removed Pin From Net: NetName=NetC16_1 Pin=SW1-3
+Removed Pin From Net: NetName=gnd Pin=SW2-2
+Removed Pin From Net: NetName=boot Pin=SW2-3
+Change Component Footprint: Designator=SW1 Old Footprint=SO4_222A-M-V-B_CTS New Footprint=PTS645S_SMTR92_CNK
+Change Component Footprint: Designator=SW2 Old Footprint=SO4_222A-M-V-B_CTS New Footprint=PTS645S_SMTR92_CNK
+Change Component Comment : Designator=SW1 Old Comment=222AMVBAR New Comment=PTS645SH50SMTR92LFS
+Change Component Comment : Designator=SW2 Old Comment=222AMVBAR New Comment=PTS645SH50SMTR92LFS
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SO4_222A-M-V-B_CTS"; UniqueID = "\YZHQWFGO" ("\YZHQWFGO")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "C&K Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "SO4_222A-M-V-B_CTS"; UniqueID = "\VQRZJJWP" ("\VQRZJJWP")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "C&K Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_1 Pin=SW1-2
+Added Pin To Net: NetName=gnd Pin=SW1-3
+Added Pin To Net: NetName=boot Pin=SW2-2
+Added Pin To Net: NetName=gnd Pin=SW2-3
+Added Member To Class: ClassName=esp32 Member=Component b1 battery pad
+Added Member To Class: ClassName=analog Member=Component C1 C1608X5R1A106K080AC
+Added Member To Class: ClassName=analog Member=Component C2 CGA3E2X7R1H104K080AA
+Added Member To Class: ClassName=analog Member=Component C3 C1608X5R1A106K080AC
+Added Member To Class: ClassName=analog Member=Component C4 C1608X5R1A106K080AC
+Added Member To Class: ClassName=analog Member=Component C5 genCap
+Added Member To Class: ClassName=analog Member=Component C6 genCap
+Added Member To Class: ClassName=esp32 Member=Component C16 genCap
+Added Member To Class: ClassName=esp32 Member=Component C18 genCap
+Added Member To Class: ClassName=esp32 Member=Component C22 genCap
+Added Member To Class: ClassName=esp32 Member=Component C24 genCap
+Added Member To Class: ClassName=esp32 Member=Component C25 genCap
+Added Member To Class: ClassName=esp32 Member=Component D1 ESDA6V1BC6
+Added Member To Class: ClassName=analog Member=Component e1 electrode
+Added Member To Class: ClassName=esp32 Member=Component J1 USB4105-GF-A-120
+Added Member To Class: ClassName=analog Member=Component L1 1239AS-H-4R7M=P2
+Added Member To Class: ClassName=esp32 Member=Component led1 led
+Added Member To Class: ClassName=esp32 Member=Component led2 led
+Added Member To Class: ClassName=analog Member=Component P2 61302011121
+Added Member To Class: ClassName=analog Member=Component R1 RC0603JR-070RL
+Added Member To Class: ClassName=analog Member=Component R4 genRes
+Added Member To Class: ClassName=analog Member=Component R20 genRes
+Added Member To Class: ClassName=analog Member=Component R21 genRes
+Added Member To Class: ClassName=analog Member=Component R22 genRes
+Added Member To Class: ClassName=analog Member=Component R23 genRes
+Added Member To Class: ClassName=analog Member=Component R24 genRes
+Added Member To Class: ClassName=analog Member=Component R25 genRes
+Added Member To Class: ClassName=esp32 Member=Component SW2 PTS645SH50SMTR92LFS
+Added Member To Class: ClassName=analog Member=Component U1 AD8295BCPZ-WP
+Added Member To Class: ClassName=esp32 Member=Component U4 ESP32-S3-WROOM-2-N32R8V
+Added Member To Class: ClassName=analog Member=Component U6 OPA2990IDSGR
+Added Member To Class: ClassName=esp32 Member=Component U7 ADC121S021CIMFXNOPB

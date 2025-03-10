@@ -1,0 +1,95 @@
+Change Component Comment : Designator=C1 Old Comment=C1608X5R1A106K080AC New Comment=10u
+Change Component Comment : Designator=C3 Old Comment=C1608X5R1A106K080AC New Comment=10u
+Change Component Comment : Designator=C4 Old Comment=C1608X5R1A106K080AC New Comment=10u
+Change Component Comment : Designator=C2 Old Comment=CGA3E2X7R1H104K080AA New Comment=100n
+Change Component Description : Designator=R5 Old Description= New Description=C4216
+Change Component Description : Designator=C5 Old Description= New Description=C14663
+Change Component Description : Designator=C12 Old Description= New Description=C14663
+Change Component Description : Designator=C13 Old Description= New Description=C14663
+Change Component Description : Designator=C15 Old Description= New Description=C14663
+Change Component Description : Designator=C16 Old Description= New Description=C14663
+Change Component Description : Designator=C19 Old Description= New Description=C14663
+Change Component Description : Designator=C23 Old Description= New Description=C14663
+Change Component Description : Designator=R8 Old Description= New Description=C14675
+Change Component Description : Designator=R20 Old Description= New Description=C14675
+Change Component Description : Designator=R21 Old Description= New Description=C14675
+Change Component Description : Designator=R22 Old Description= New Description=C14675
+Change Component Description : Designator=R23 Old Description= New Description=C14675
+Change Component Description : Designator=C24 Old Description= New Description=C19666
+Change Component Description : Designator=C25 Old Description= New Description=C19666
+Change Component Description : Designator=R26 Old Description= New Description=C22548
+Change Component Description : Designator=R14 Old Description= New Description=C22975
+Change Component Description : Designator=C14 Old Description= New Description=C86295
+Change Component Description : Designator=C17 Old Description= New Description=C86295
+Change Component Description : Designator=C18 Old Description= New Description=C86295
+Change Component Description : Designator=C22 Old Description= New Description=C86295
+Change Component Description : Designator=R9 Old Description= New Description=C98220
+Change Component Description : Designator=R29 Old Description= New Description=C98220
+Change Component Description : Designator=R30 Old Description= New Description=C98220
+Change Component Description : Designator=C11 Old Description= New Description=C100042
+Change Component Description : Designator=R10 Old Description= New Description=C105578
+Change Component Description : Designator=R11 Old Description= New Description=C105578
+Change Component Description : Designator=R2 Old Description= New Description=C105588
+Change Component Description : Designator=C6 Old Description= New Description=C107093
+Change Component Description : Designator=C9 Old Description= New Description=C107098
+Change Component Description : Designator=C10 Old Description= New Description=C107098
+Change Component Description : Designator=R12 Old Description= New Description=C123419
+Change Component Description : Designator=R27 Old Description= New Description=C137768
+Change Component Description : Designator=R3 Old Description= New Description=C137801
+Change Component Description : Designator=C7 Old Description= New Description=C162241
+Change Component Description : Designator=C8 Old Description= New Description=C694504
+Change Component Description : Designator=R28 Old Description= New Description=C705990
+Change Component Description : Designator=R13 Old Description= New Description=C844932
+Change Component Description : Designator=R15 Old Description= New Description=C844932
+Change Component Description : Designator=R16 Old Description= New Description=C844932
+Change Component Description : Designator=R17 Old Description= New Description=C844932
+Change Component Description : Designator=R18 Old Description= New Description=C844932
+Change Component Description : Designator=led1 Old Description= New Description=C965799
+Change Component Description : Designator=led2 Old Description= New Description=C965799
+Change Component Description : Designator=led3 Old Description= New Description=C965799
+Change Component Description : Designator=led4 Old Description= New Description=C965799
+Change Component Description : Designator=led5 Old Description= New Description=C965799
+Change Component Description : Designator=R6 Old Description= New Description=C2088918
+Change Component Description : Designator=R25 Old Description= New Description=C2849084
+Change Component Description : Designator=R4 Old Description= New Description=C2906984
+Change Component Description : Designator=R24 Old Description= New Description=C2906993
+Change Component Description : Designator=R7 Old Description= New Description=C2907015
+Change Component Description : Designator=C20 Old Description= New Description=C6119842
+Change Component Description : Designator=C21 Old Description= New Description=C6119842
+Change Component Description : Designator=C27 Old Description= New Description=C6119842
+Change Component Description : Designator=D1 Old Description=- Clamp - Ipp Tvs Diode Surface Mount SOT-23-6 New Description=C495220
+Change Component Description : Designator=U4 Old Description=Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount New Description=C2913205
+Change Component Description : Designator=C2 Old Description=Cap Ceramic 100nF 50V X7R 10% Pad SMD 0603 +125°C Automotive T/R New Description=C14663
+Change Component Description : Designator=J2 Old Description=Charger IC Lithium Ion/Polymer SOT-23-5 New Description=C424093
+Change Component Description : Designator=R1 Old Description=Chip Resistor, 0 Ohm, +/- 5%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel New Description=C95177
+Change Component Description : Designator=U5 Old Description=High Efficiency Single Inductor Buck-Boost Converter with 4A Switch  <a href="https://snapeda.com/parts/TPS63021DSJR/Texas%20Instruments/view-part/?ref=eda">Buy Part</a> <a href="https://snapeda.com/parts/TPS63021DSJR/Texas%20Instruments/view-part/?ref=eda">Check prices</a> <a href="https://snapeda.com/parts/TPS63021DSJR/Texas%20Instruments/view-part/?ref=eda">Check prices</a> New Description=
+Change Component Description : Designator=U2 Old Description=IC REG AMOLED DISPL 2OUT 12WSON New Description=C134100
+Change Component Description : Designator=C1 Old Description=Multilayer Ceramic Capacitors 10µF ±10% 10V X5R SMD 0603 New Description=C19702
+Change Component Description : Designator=C3 Old Description=Multilayer Ceramic Capacitors 10µF ±10% 10V X5R SMD 0603 New Description=C6119842
+Change Component Description : Designator=C4 Old Description=Multilayer Ceramic Capacitors 10µF ±10% 10V X5R SMD 0603 New Description=C6119842
+Change Component Description : Designator=U9 Old Description=No Description Available New Description=C14809
+Change Component Description : Designator=U10 Old Description=No Description Available New Description=C14809
+Change Component Description : Designator=SW1 Old Description=No Description Available New Description=C221869
+Change Component Description : Designator=SW2 Old Description=No Description Available New Description=C221869
+Change Component Description : Designator=U7 Old Description=No Description Available New Description=C701596
+Change Component Description : Designator=U6 Old Description=No Description Available New Description=C2057874
+Change Component Description : Designator=L3 Old Description=No Description Available New Description=C3033018
+Change Component Description : Designator=L1 Old Description=Shielded Wirewound Inductor 4.7uH 20% 1300mA 0.24O 1008 (2520) New Description=C882976
+Change Component Description : Designator=L2 Old Description=Shielded Wirewound Inductor 4.7uH 20% 1300mA 0.24O 1008 (2520) New Description=C882976
+Change Component Description : Designator=U8 Old Description=USB Bridge, USB to UART USB 2.0 UART Interface 28-QFN (5x5) New Description=C1550553
+Change Component Description : Designator=J1 Old Description=USB CONN, 2.0 TYPE C, RCPT, 16POS, SMT; USB Connector Type:USB Type C; USB Standard:USB 2.0; Gender:Receptacle; No. of Positions:16Positions; Connector Mounting:Surface Mount, Through Hole Mount; Orientation:Right Angle RoHS Compliant: Yes New Description=
+Change component parameters: Designator = "R13" ("R13"); Footprint = "GeneralCap"; UniqueID = "\NQSTCSCG" ("\NQSTCSCG")
+Change component parameters (AddParameter): Name = "R"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "GeneralCap"; UniqueID = "\CZVJXXPC" ("\CZVJXXPC")
+Change component parameters (AddParameter): Name = "R"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "GeneralCap"; UniqueID = "\KUELSSSU" ("\KUELSSSU")
+Change component parameters (AddParameter): Name = "R"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "GeneralCap"; UniqueID = "\YZJBFPJZ" ("\YZJBFPJZ")
+Change component parameters (AddParameter): Name = "R"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "GeneralCap"; UniqueID = "\USGXFIGD" ("\USGXFIGD")
+Change component parameters (AddParameter): Name = "R"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "GeneralCap"; UniqueID = "\FLNYUVBP" ("\FLNYUVBP")
+Change component parameters (AddParameter): Name = "R"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "GeneralCap"; UniqueID = "\KBQMYHUT" ("\KBQMYHUT")
+Change component parameters (AddParameter): Name = "R"; Value = "100k"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=analog Member=Component C1 10u

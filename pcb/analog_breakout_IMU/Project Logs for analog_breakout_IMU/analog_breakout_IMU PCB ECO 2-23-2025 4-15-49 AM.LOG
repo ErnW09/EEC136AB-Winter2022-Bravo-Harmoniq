@@ -1,0 +1,25 @@
+Added Member To Class: ClassName=esp32 Member=Component b1 battery pad
+Added Member To Class: ClassName=analog Member=Component C1 C1608X5R1A106K080AC
+Added Member To Class: ClassName=analog Member=Component C2 CGA3E2X7R1H104K080AA
+Added Member To Class: ClassName=analog Member=Component C3 C1608X5R1A106K080AC
+Added Member To Class: ClassName=analog Member=Component C4 C1608X5R1A106K080AC
+Added Member To Class: ClassName=analog Member=Component C5 genCap
+Added Member To Class: ClassName=analog Member=Component C6 genCap
+Added Member To Class: ClassName=esp32 Member=Component C16 genCap
+Added Member To Class: ClassName=esp32 Member=Component C18 genCap
+Added Member To Class: ClassName=esp32 Member=Component C22 genCap
+Added Member To Class: ClassName=esp32 Member=Component C24 genCap
+Added Member To Class: ClassName=esp32 Member=Component C25 genCap
+Added Member To Class: ClassName=esp32 Member=Component D1 ESDA6V1BC6
+Added Member To Class: ClassName=analog Member=Component e1 electrode
+Added Member To Class: ClassName=esp32 Member=Component J1 USB4105-GF-A-120
+Added Member To Class: ClassName=analog Member=Component L1 1239AS-H-4R7M=P2
+Added Member To Class: ClassName=esp32 Member=Component led1 led
+Added Member To Class: ClassName=esp32 Member=Component led2 led
+Added Member To Class: ClassName=analog Member=Component P2 61302011121
+Added Member To Class: ClassName=analog Member=Component R1 RC0603JR-070RL
+Added Member To Class: ClassName=analog Member=Component R4 genRes
+Added Member To Class: ClassName=esp32 Member=Component SW2 222AMVBAR
+Added Member To Class: ClassName=analog Member=Component U1 AD8295BCPZ-WP
+Added Member To Class: ClassName=esp32 Member=Component U4 ESP32-S3-WROOM-2-N32R8V
+Added Rule: Name=Schematic Supply Nets

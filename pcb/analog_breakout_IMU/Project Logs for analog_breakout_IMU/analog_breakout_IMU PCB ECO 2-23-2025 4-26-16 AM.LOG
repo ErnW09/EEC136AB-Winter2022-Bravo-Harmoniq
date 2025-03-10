@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=U4 Old DesignItemId=ESP32-S3-WROOM-2-N32R8V New DesignItemId=
+Change Component Library : Designator=U4 Old Library=ESP32-S3-WROOM-2-N32R8V.IntLib New Library=ESP32-S3.IntLib

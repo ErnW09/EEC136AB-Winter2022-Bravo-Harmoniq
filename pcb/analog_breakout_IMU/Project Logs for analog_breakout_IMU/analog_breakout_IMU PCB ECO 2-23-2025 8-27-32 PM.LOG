@@ -1,0 +1,64 @@
+Added Component: Designator=CR1(USC_TOS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Toshiba Electronic Devices & Storage Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R21(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R22(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R24(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "150k"; VariantName = "[No Variations]"
+Added Component: Designator=R25(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "750k"; VariantName = "[No Variations]"
+Added Component: Designator=U6(WSON8_DSG_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DBV0006A_N
+Added Pin To Net: NetName=gnd Pin=CR1-2
+Added Pin To Net: NetName=gnd Pin=R20-2
+Added Pin To Net: NetName=3v3 Pin=R22-1
+Added Pin To Net: NetName=gnd Pin=R24-2
+Added Pin To Net: NetName=analog_out Pin=U6-2
+Added Pin To Net: NetName=Vn Pin=U6-4
+Added Pin To Net: NetName=Vp Pin=U6-8
+Added Pin To Net: NetName=Vn Pin=U6-9
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Added Pin To Net: NetName=analog_Pro Pin=CR1-1
+Added Pin To Net: NetName=analog_Pro Pin=R21-1
+Added Pin To Net: NetName=analog_Pro Pin=U6-7
+Added Net: Name=analog_Pro
+Added Pin To Net: NetName=cs_adc Pin=U4-23
+Added Net: Name=cs_adc
+Added Pin To Net: NetName=vin1+ Pin=R24-1
+Added Pin To Net: NetName=vin1+ Pin=R25-1
+Added Pin To Net: NetName=vin1+ Pin=U6-3
+Added Net: Name=vin1+
+Added Pin To Net: NetName=vin2+ Pin=R22-2
+Added Pin To Net: NetName=vin2+ Pin=R23-2
+Added Pin To Net: NetName=vin2+ Pin=U6-5
+Added Net: Name=vin2+
+Added Pin To Net: NetName=vin2- Pin=R20-1
+Added Pin To Net: NetName=vin2- Pin=R21-2
+Added Pin To Net: NetName=vin2- Pin=U6-6
+Added Net: Name=vin2-
+Added Pin To Net: NetName=vout1 Pin=R23-1
+Added Pin To Net: NetName=vout1 Pin=R25-2
+Added Pin To Net: NetName=vout1 Pin=U6-1
+Added Net: Name=vout1
+Added Member To Class: ClassName=analog Member=Component CR1 CUS520,H3F
+Added Member To Class: ClassName=analog Member=Component R20 genRes
+Added Member To Class: ClassName=analog Member=Component R21 genRes
+Added Member To Class: ClassName=analog Member=Component R22 genRes
+Added Member To Class: ClassName=analog Member=Component R23 genRes
+Added Member To Class: ClassName=analog Member=Component R24 genRes
+Added Member To Class: ClassName=analog Member=Component R25 genRes
+Added Member To Class: ClassName=analog Member=Component U6 OPA2990IDSGR
+Add Class Member: Failed to add class member : Component U7 ADC121S021CIMFXNOPB

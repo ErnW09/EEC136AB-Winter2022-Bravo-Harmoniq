@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog_breakout_IMU.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=analog_breakout_imu-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=analog_breakout_imu-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

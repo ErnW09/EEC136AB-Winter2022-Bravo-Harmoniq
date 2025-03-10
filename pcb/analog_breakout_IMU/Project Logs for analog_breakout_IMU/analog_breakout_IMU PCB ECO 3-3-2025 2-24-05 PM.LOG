@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=analog_out Pin=P2-20
+Added Pin To Net: NetName=analog_out Pin=P2-16

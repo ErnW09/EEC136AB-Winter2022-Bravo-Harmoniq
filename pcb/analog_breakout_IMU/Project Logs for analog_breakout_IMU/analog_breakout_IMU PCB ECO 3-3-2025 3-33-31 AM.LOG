@@ -1,0 +1,39 @@
+Added Component: Designator=U8(QFN50P500X500X80-29N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CP2102N-A02-GQFN28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "WFQFN-28 Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CP2102N-A02-GQFN28/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOT-23_ONS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOT-23_ONS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=gnd Pin=U8-3
+Added Pin To Net: NetName=usbDP Pin=U8-4
+Added Pin To Net: NetName=usbDN Pin=U8-5
+Added Pin To Net: NetName=3v3 Pin=U8-6
+Added Pin To Net: NetName=3v3 Pin=U8-7
+Added Pin To Net: NetName=vbus Pin=U8-8
+Added Pin To Net: NetName=NetR26_1 Pin=U8-9
+Added Pin To Net: NetName=rts Pin=U8-24
+Added Pin To Net: NetName=rx Pin=U8-25
+Added Pin To Net: NetName=tx Pin=U8-26
+Added Pin To Net: NetName=dtr Pin=U8-28
+Added Pin To Net: NetName=gnd Pin=U8-29
+Added Pin To Net: NetName=NetR29_2 Pin=U9-1
+Added Pin To Net: NetName=rts Pin=U9-2
+Added Pin To Net: NetName=en Pin=U9-3
+Added Pin To Net: NetName=NetR30_2 Pin=U10-1
+Added Pin To Net: NetName=dtr Pin=U10-2
+Added Pin To Net: NetName=boot Pin=U10-3
+Added Member To Class: ClassName=usb Member=Component U8 CP2102N-A02-GQFN28
+Added Member To Class: ClassName=usb Member=Component U9 KSC3265YMTF
+Added Member To Class: ClassName=usb Member=Component U10 KSC3265YMTF

@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=gnd Pin=U4-1
+Removed Pin From Net: NetName=p19 Pin=U4-9
+Removed Pin From Net: NetName=p17 Pin=U4-10
+Removed Pin From Net: NetName=p18 Pin=U4-11
+Removed Pin From Net: NetName=usbDN Pin=U4-13
+Removed Pin From Net: NetName=usbDP Pin=U4-14
+Removed Pin From Net: NetName=p14 Pin=U4-16
+Removed Pin From Net: NetName=cs_adc Pin=U4-23
+Removed Pin From Net: NetName=p15 Pin=U4-24
+Removed Pin From Net: NetName=p16 Pin=U4-25
+Removed Pin From Net: NetName=p13 Pin=U4-26
+Removed Pin From Net: NetName=tck Pin=U4-32
+Removed Pin From Net: NetName=tdo Pin=U4-33
+Removed Pin From Net: NetName=tdi Pin=U4-34
+Removed Pin From Net: NetName=tms Pin=U4-35
+Removed Pin From Net: NetName=gnd Pin=U4-40
+Removed Pin From Net: NetName=gnd Pin=U4-41_1
+Removed Pin From Net: NetName=gnd Pin=U4-41_2
+Removed Pin From Net: NetName=gnd Pin=U4-41_3
+Removed Pin From Net: NetName=gnd Pin=U4-41_4
+Removed Pin From Net: NetName=gnd Pin=U4-41_5
+Removed Pin From Net: NetName=gnd Pin=U4-41_6
+Removed Pin From Net: NetName=gnd Pin=U4-41_7
+Removed Pin From Net: NetName=gnd Pin=U4-41_8
+Removed Pin From Net: NetName=gnd Pin=U4-41_9
+Change Component Footprint: Designator=U4 Old Footprint=XCVR_ESP32-S3-WROOM-2-N32R8V New Footprint=XCVR_ESP32-S3-WROOM-1-N16R2
+Change Component Comment : Designator=U4 Old Comment=ESP32-S3-WROOM-2-N32R8V New Comment=ESP32-S3-WROOM-1-N16R2
+Change component parameters: Designator = "U4" ("U4"); Footprint = "XCVR_ESP32-S3-WROOM-2-N32R8V"; UniqueID = "\QFSZKXAN" ("\QFSZKXAN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32S3WROOM1N16R2/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ESP32S3WROOM1N16R2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "NON STANDARD Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32S3WROOM1N16R2/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=p19 Pin=U4-10
+Added Pin To Net: NetName=p17 Pin=U4-11
+Added Pin To Net: NetName=p18 Pin=U4-13
+Added Pin To Net: NetName=usbDN Pin=U4-14
+Added Pin To Net: NetName=p16 Pin=U4-16
+Added Pin To Net: NetName=usbDP Pin=U4-23
+Added Pin To Net: NetName=p15 Pin=U4-26
+Added Pin To Net: NetName=cs_adc Pin=U4-28
+Added Pin To Net: NetName=tck Pin=U4-30
+Added Pin To Net: NetName=tdo Pin=U4-31
+Added Pin To Net: NetName=tdi Pin=U4-32
+Added Pin To Net: NetName=tms Pin=U4-33
+Added Pin To Net: NetName=p13 Pin=U4-34
+Added Pin To Net: NetName=p14 Pin=U4-35
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND
+Added Pin To Net: NetName=gnd Pin=U4-GND

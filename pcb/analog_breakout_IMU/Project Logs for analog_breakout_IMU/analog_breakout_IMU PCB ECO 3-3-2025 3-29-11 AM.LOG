@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=tx Pin=P2-1
+Removed Pin From Net: NetName=rx Pin=P2-2
+Removed Pin From Net: NetName=usbDN Pin=U4-14
+Removed Pin From Net: NetName=usbDP Pin=U4-23
+Change component parameters: Designator = "R13" ("R13"); Footprint = "GeneralCap"; UniqueID = "\NQSTCSCG" ("\NQSTCSCG")
+Change component parameters (AddParameter): Name = "R"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=C27(GeneralCap)
+Add component (AddParameter): Name = "C"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=R26(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R27(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "22.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R28(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "47.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R29(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R30(GeneralCap)
+Add component (AddParameter): Name = "R"; Value = "10k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found QFN50P500X500X80-29N
+Add Component: Footprint Not Found SOT-23_ONS
+Add Component: Footprint Not Found SOT-23_ONS
+Added Pin To Net: NetName=3v3 Pin=C27-1
+Added Pin To Net: NetName=gnd Pin=C27-2
+Added Pin To Net: NetName=3v3 Pin=R26-2
+Added Pin To Net: NetName=5v Pin=R27-1
+Added Pin To Net: NetName=gnd Pin=R28-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U8-7
+Add Pin To Net: Unknown Pin: Pin U8-25
+Add Pin To Net: Unknown Pin: Pin U8-26
+Add Pin To Net: Unknown Pin: Pin U8-29
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U10-3
+Change Net Name : Old Net Name=NetC16_1 New Net Name=en
+Added Pin To Net: NetName=dtr Pin=R29-1
+Added Net: Name=dtr
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=p20 Pin=P2-1
+Added Pin To Net: NetName=p20 Pin=U4-14
+Added Net: Name=p20
+Added Pin To Net: NetName=p21 Pin=P2-2
+Added Pin To Net: NetName=p21 Pin=U4-23
+Added Net: Name=p21
+Added Pin To Net: NetName=rts Pin=R30-1
+Added Net: Name=rts
+Added Pin To Net: NetName=vbus Pin=R27-2
+Added Pin To Net: NetName=vbus Pin=R28-1
+Added Net: Name=vbus
+Added Class: Name=usb

@@ -1,0 +1,18 @@
+Added Component: Designator=SW1(PTS645S_SMTR92_CNK)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(PTS645S_SMTR92_CNK)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_1 Pin=SW1-1
+Added Pin To Net: NetName=NetC16_1 Pin=SW1-2
+Added Pin To Net: NetName=gnd Pin=SW1-3
+Added Pin To Net: NetName=gnd Pin=SW1-4
+Added Pin To Net: NetName=boot Pin=SW2-1
+Added Pin To Net: NetName=boot Pin=SW2-2
+Added Pin To Net: NetName=gnd Pin=SW2-3
+Added Pin To Net: NetName=gnd Pin=SW2-4
+Added Member To Class: ClassName=esp32 Member=Component SW1 PTS645SH50SMTR92LFS
+Added Member To Class: ClassName=esp32 Member=Component SW2 PTS645SH50SMTR92LFS

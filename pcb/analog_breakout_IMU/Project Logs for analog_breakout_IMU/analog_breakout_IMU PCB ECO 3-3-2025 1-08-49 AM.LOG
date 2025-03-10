@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=led1-1
+Removed Pin From Net: NetName=gnd Pin=R13-2
+Added Pin To Net: NetName=5v Pin=led1-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R13-2
+Added Member To Class: ClassName=esp32 Member=Component SW1 PTS645SH50SMTR92LFS
+Added Member To Class: ClassName=esp32 Member=Component SW2 PTS645SH50SMTR92LFS

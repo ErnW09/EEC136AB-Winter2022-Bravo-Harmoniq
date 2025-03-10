@@ -1,0 +1,10 @@
+Added Component: Designator=C24(GeneralCap)
+Add component (AddParameter): Name = "C"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=C25(GeneralCap)
+Add component (AddParameter): Name = "C"; Value = "?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=avin Pin=C24-1
+Added Pin To Net: NetName=gnd Pin=C24-2
+Added Pin To Net: NetName=5v Pin=C25-1
+Added Pin To Net: NetName=gnd Pin=C25-2
+Added Member To Class: ClassName=esp32 Member=Component C24 genCap
+Added Member To Class: ClassName=esp32 Member=Component C25 genCap

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=analog_Pro Pin=CR1-1
+Removed Pin From Net: NetName=gnd Pin=CR1-2
+Removed Member From Class: ClassName=analog Member=CR1

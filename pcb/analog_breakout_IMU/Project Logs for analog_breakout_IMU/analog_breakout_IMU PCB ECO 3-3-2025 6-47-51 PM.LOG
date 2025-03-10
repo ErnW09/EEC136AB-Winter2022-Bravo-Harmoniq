@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=en Pin=SW1-1
+Added Pin To Net: NetName=boot Pin=SW2-1

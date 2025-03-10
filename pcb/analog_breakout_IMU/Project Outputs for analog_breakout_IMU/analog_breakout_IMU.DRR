@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: analog_breakout_IMU.PcbDoc   3/4/2025  12:59:53 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : analog_breakout_IMU-RoundHoles.TXT
+ASCII SlotHoles File : analog_breakout_IMU-SlotHoles.TXT
+EIA File   : analog_breakout_IMU.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             135       PTH        18.04inch (458.30mm)
+T2      24mil (0.599mm)                                           Slot              4         PTH        1.50inch (38.14mm)
+T3      43mil (1.1mm)                                             Round             20        PTH        1.90inch (48.26mm)
+T4      26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              161
+
+Total Processing Time (hh:mm:ss) : 00:00:00

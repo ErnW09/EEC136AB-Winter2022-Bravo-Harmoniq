@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=usbDP Pin=J1-B6
+Removed Pin From Net: NetName=usbDN Pin=J1-B7
+Change component parameters: Designator = "R15" ("R15"); Footprint = "GeneralCap"; UniqueID = "\CZVJXXPC" ("\CZVJXXPC")
+Change component parameters (AddParameter): Name = "R"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "GeneralCap"; UniqueID = "\KUELSSSU" ("\KUELSSSU")
+Change component parameters (AddParameter): Name = "R"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "GeneralCap"; UniqueID = "\YZJBFPJZ" ("\YZJBFPJZ")
+Change component parameters (AddParameter): Name = "R"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "GeneralCap"; UniqueID = "\USGXFIGD" ("\USGXFIGD")
+Change component parameters (AddParameter): Name = "R"; Value = "100"; VariantName = "[No Variations]"

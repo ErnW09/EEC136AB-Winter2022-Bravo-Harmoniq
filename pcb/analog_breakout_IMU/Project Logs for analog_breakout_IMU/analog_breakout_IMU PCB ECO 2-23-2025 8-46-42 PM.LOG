@@ -1,0 +1,11 @@
+Added Component: Designator=U7(DBV0006A_N)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vp Pin=U7-1
+Added Pin To Net: NetName=gnd Pin=U7-2
+Added Pin To Net: NetName=analog_Pro Pin=U7-3
+Added Pin To Net: NetName=sclk Pin=U7-4
+Added Pin To Net: NetName=miso Pin=U7-5
+Added Pin To Net: NetName=cs_adc Pin=U7-6
+Added Member To Class: ClassName=esp32 Member=Component U7 ADC121S021CIMFXNOPB

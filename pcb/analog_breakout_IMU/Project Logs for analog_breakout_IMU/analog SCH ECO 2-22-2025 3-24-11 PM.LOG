@@ -1,0 +1,29 @@
+Update Managed Component C1 From CMP-2000-04979-3[C1608X5R1A106K080AC] To CMP-2000-04979-3[C1608X5R1A106K080AC] in analog.SchDoc
+Update Managed Component C2 From CMP-2000-07546-2[CGA3E2X7R1H104K080AA] To CMP-2000-07546-2[CGA3E2X7R1H104K080AA] in analog.SchDoc
+Update Managed Component C3 From CMP-2000-04979-3[C1608X5R1A106K080AC] To CMP-2000-04979-3[C1608X5R1A106K080AC] in analog.SchDoc
+Update Managed Component C4 From CMP-2000-04979-3[C1608X5R1A106K080AC] To CMP-2000-04979-3[C1608X5R1A106K080AC] in analog.SchDoc
+Replace Part C5 genCap in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genCap from seniorDesign.IntLib
+Replace Part C6 genCap in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genCap from seniorDesign.IntLib
+Replace Part C7 genCap in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genCap from seniorDesign.IntLib
+Replace Part C8 genCap in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genCap from seniorDesign.IntLib
+Replace Part C9 genCap in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genCap from seniorDesign.IntLib
+Replace Part C10 genCap in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genCap from seniorDesign.IntLib
+Replace Part C11 genCap in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genCap from seniorDesign.IntLib
+Replace Part C12 genCap in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genCap from seniorDesign.IntLib
+Replace Part C13 genCap in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genCap from seniorDesign.IntLib
+Replace Part e1 electrode in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with electrode from sEMG_lib.IntLib
+Update Managed Component L1 From CMP-06042-003985-1[1239AS-H-4R7M=P2] To CMP-06042-003985-1[1239AS-H-4R7M=P2] in analog.SchDoc
+Update Managed Component L2 From CMP-06042-003985-1[1239AS-H-4R7M=P2] To CMP-06042-003985-1[1239AS-H-4R7M=P2] in analog.SchDoc
+Update Managed Component P2 From CMP-1502-01102-3[61302011121] To CMP-1502-01102-3[61302011121] in analog.SchDoc
+Update Managed Component R1 From CMP-2100-03667-1[RC0603JR-070RL] To CMP-2100-03667-1[RC0603JR-070RL] in analog.SchDoc
+Replace Part R2 genRes in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genRes from seniorDesign.IntLib
+Replace Part R3 genRes in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genRes from seniorDesign.IntLib
+Replace Part R4 genRes in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genRes from seniorDesign.IntLib
+Replace Part R5 genRes in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genRes from seniorDesign.IntLib
+Replace Part R6 genRes in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genRes from seniorDesign.IntLib
+Replace Part R7 genRes in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genRes from seniorDesign.IntLib
+Replace Part R8 genRes in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genRes from seniorDesign.IntLib
+Replace Part R19 genRes in C:\Users\wange\Desktop\course work\sEMG_Gesture_Control\pcb\analog_breakout_IMU\analog.SchDoc with genRes from seniorDesign.IntLib
+Update Managed Component U1 From CMP-09116-000488-1[AD8295BCPZ-WP] To CMP-09116-000488-1[AD8295BCPZ-WP] in analog.SchDoc
+Update Managed Component U2 From CMP-04918-000430-1[TPS65133DPDR] To CMP-04918-000430-1[TPS65133DPDR] in analog.SchDoc
+Update Managed Component U3 From CMP-2100-03657-1[MPU-9250] To CMP-2100-03657-1[MPU-9250] in analog.SchDoc

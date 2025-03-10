@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [analog_breakout_IMU.PrjPcb]
+   Generated File[analog_breakout_IMU-RoundHoles.TXT]
+   Generated File[analog_breakout_IMU-SlotHoles.TXT]
+   Generated File[analog_breakout_IMU.DRL]
+   Generated File[analog_breakout_IMU.LDP]
+   Generated File[analog_breakout_IMU.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 12:59:53 AM On 3/4/2025

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+in Pin=P2-17
+Removed Pin From Net: NetName=ref Pin=P2-18
+Removed Pin From Net: NetName=-in Pin=P2-19
+Added Pin To Net: NetName=p16 Pin=U4-9
+Added Pin To Net: NetName=p17 Pin=P2-17
+Added Pin To Net: NetName=p17 Pin=U4-10
+Added Net: Name=p17
+Added Pin To Net: NetName=p18 Pin=P2-18
+Added Pin To Net: NetName=p18 Pin=U4-11
+Added Net: Name=p18
+Added Pin To Net: NetName=p21 Pin=P2-19
+Added Pin To Net: NetName=p21 Pin=U4-23
+Added Net: Name=p21
