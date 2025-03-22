@@ -12,6 +12,10 @@ void countdown(int sec);
 void recordReference(int index);
 void executeBLEAction(int position);
 
+// Redefined I2C Pins
+#define SDA_PIN 22  // Your new SDA pin
+#define SCL_PIN 23  // Your new SCL pin
+
 // LED Definition
 #define LED_BUILTIN 2
 #define PWM_CHANNEL 0
@@ -19,7 +23,7 @@ void executeBLEAction(int position);
 #define PWM_RESOLUTION 8
 
 // ADC Definition
-#define ADC_PIN 36 // Can alternatively use ESP32 GPIO Pin 32, 33, 34, 35, or 36
+#define ADC_PIN 39
 
 // BLE Keyboard instance
 BleKeyboard bleKeyboard("Motion BLE Controller");
@@ -55,6 +59,7 @@ void setup() {
     bleKeyboard.begin();
 
     // Initialize MPU6050
+    Wire.begin(SDA_PIN, SCL_PIN); 
     if (!mpu.begin()) {
         Serial.println("MPU6050 not found. Check wiring!\n");
         while (1);
@@ -125,8 +130,8 @@ void countdown(int sec) {
 
 // Fist Boolean
 bool isFistClosed() {
-    int rawValue = analogRead(ADC_PIN);
-    float voltage = (rawValue * 3.3) / 4095.0;
+    int raw_Value = analogRead(ADC_PIN);
+    float voltage = (raw_Value * 3.3) / 4095.0;
     return voltage > VOLTAGE_THRESHOLD;
 }
 
